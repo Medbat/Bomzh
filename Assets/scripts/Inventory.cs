@@ -39,5 +39,10 @@ public class Inventory : MonoBehaviour
         fs.Close();
         return v;
     }
+	
+	private void abc()
+	{
+		int a = 3+1;
+	}
 
 }
