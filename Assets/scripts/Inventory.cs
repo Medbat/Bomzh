@@ -45,4 +45,9 @@ public class Inventory : MonoBehaviour
 		int a = 3+1;
 	}
 
+    public int intint()
+    {
+        string s = "azaza";
+    }
+
 }
